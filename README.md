@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish15walia&label=Profile%20views&color=0e75b6&style=flat" alt="manish15walia" /> </p>
 
-- 📫 How to reach me **manishwalia15@gmail.com**
+- 📫 How to reach me **waliamanish1505@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
