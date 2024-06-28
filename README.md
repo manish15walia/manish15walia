@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <l
-<a href="https://linkedin.com/in/manish-walia-22b49121b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakul-grover412" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/manish-walia1505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakul-grover412" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Manish_1142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nakul-grover" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/manish1614be20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nakulgrover412" height="30" width="40" /></a>
 </p>
