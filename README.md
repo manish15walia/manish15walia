@@ -11,16 +11,16 @@
 
 - 🤝 I find joy in crafting **digital experiences that are both functional and delightfully engaging**.
 
-- 👨‍💻 All of my projects are available at [https://nakul-portfolio.netlify.app/](https://nakul-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://manish-walia-portfolio.netlify.app/](https://manish-walia-portfolio.netlify.app/)
 
-- 📫 How to reach me **nakulgrover412@gmail.com**
+- 📫 How to reach me **waliamanish1505@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nakulgrover_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakulgrover_r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nakul-grover412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakul-grover412" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nakul-grover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nakul-grover" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nakulgrover412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nakulgrover412" height="30" width="40" /></a>
+<l
+<a href="https://linkedin.com/in/manish-walia-22b49121b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakul-grover412" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Manish_1142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nakul-grover" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/manish1614be20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nakulgrover412" height="30" width="40" /></a>
 </p>
 
 
