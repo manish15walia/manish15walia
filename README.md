@@ -1,15 +1,15 @@
 
-<h1 align="center">Hi 👋, I'm Nakul Grover</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi 👋, I'm Manish Waliar</h1>
+<h3 align="center">A skilled developer of synergistic web technologies</h3>
 <img align="right" width="300" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
-- 👻 My passion lies in the **intricate dance of front-end frameworks and back-end technologies.**
+- 👻 A skilled innovator, passionate about the harmonious blend of **front-end frameworks and back-end technologies.**
 
-- 🌱 I'm evolving my skills with **each project, adopting new technologies and refining my coding practices.**
+- 🌱 Constantly evolving, I embrace each project as an opportunity to **adopt cutting-edge technologies and refine my coding practices.**
 
 - 👯 I thrive in the world **of version control, orchestrating projects with Git and GitHub**
 
-- 🤝 I enjoy building **digital experiences that are not just functional but also delightful to us**
+- 🤝 I find joy in crafting **digital experiences that are both functional and delightfully engaging**.
 
 - 👨‍💻 All of my projects are available at [https://nakul-portfolio.netlify.app/](https://nakul-portfolio.netlify.app/)
 
