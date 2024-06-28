@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Manish Waliar</h1>
+<h1 align="center">Hi 👋, I'm Manish Walia</h1>
 <h3 align="center">A skilled developer of synergistic web technologies</h3>
 <img align="right" width="300" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
